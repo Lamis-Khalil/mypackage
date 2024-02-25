@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: mypackage
+Version: 0.1
+Summary: EDSA example pyhton package
+Author: Lamis Khalil
+Author-email: lamismkhalil@gmail.com
+License: MIT
+
+# mypackage
+This lib was created as an example of how to publish your own Python Package.
+
+# How to install
+...
